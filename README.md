@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,26,30&height=220&section=header&text=Rafael%20Maldonado&fontSize=52&fontAlignY=35&desc=aka%20Vorlof&descAlignY=55&animation=twinkling" alt="Rafael Maldonado — Vorlof" />
 </p>
 
+<p align="center">
+  <img src="https://parlorvp.com/public/logo-v.png" width="120" height="120" alt="Vorlof V logo" style="border-radius:24px;" />
+</p>
+
 <h3 align="center">
   <samp>
     Hey there — I'm <b>Rafael Maldonado</b><br/>
