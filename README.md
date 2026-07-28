@@ -86,14 +86,27 @@ I care about **clean product UX**, **solid backends**, and tools that feel fun �
 
 ## GitHub pulse
 
-<div align="center">
+<!-- Free “readme-stats / streak” hosts often 503. Prefer Shields.io + contribution chart (stable). -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vorlof69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vorlof69&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/vorlof69?label=Followers&style=for-the-badge&logo=github&color=8ab4f8" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvorlof69&query=%24.public_repos&style=for-the-badge&label=Public%20repos&color=c58af9&logo=github" alt="Public repos" />
+  <img src="https://img.shields.io/github/stars/vorlof69?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=78d9f5&label=Stars" alt="Stars" />
+</p>
 
-![Streak](https://streak-stats.demolab.com/?user=vorlof69&theme=tokyonight&hide_border=true)
+<p align="center">
+  <b>Contribution graph</b><br/>
+  <img src="https://ghchart.rshah.org/8ab4f8/vorlof69" width="720" alt="GitHub contribution chart for vorlof69" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vorlof69&theme=tokyonight" height="180" alt="Profile stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vorlof69&theme=tokyonight" height="180" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vorlof69&theme=tokyonight&utcOffset=-4" height="180" alt="Productive time" />
+</p>
 
 ---
 
